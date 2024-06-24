@@ -1,8 +1,9 @@
-# WEB102 Prework - *Game Dreams*
+# *Game Dreams*
 
 Submitted by: **Annie Zhou**
 
 **Game Dreams** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+This is a demo developed as prework for CodePath's WEB102 class
 
 Time spent: **5** hours spent in total
 
@@ -10,18 +11,15 @@ Time spent: **5** hours spent in total
 
 The following **required** functionality is completed:
 
-* [Yes ] The introduction section explains the background of the company and how many games remain unfunded.
-* [Yes ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [Yes ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [Yes ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
-
-The following **optional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] The introduction section explains the background of the company and how many games remain unfunded.
+* [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/gNpMsTM"  ><a href="//imgur.com/a/gNpMsTM">CodePath WEB102 Prework - Annie Zhou</a></blockquote>
 
 <!-- Replace this with whatever GIF tool you used! -->
