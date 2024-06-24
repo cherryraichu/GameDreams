@@ -2,8 +2,8 @@
 
 Submitted by: **Annie Zhou**
 
+This is a demo developed as prework for CodePath's WEB102 class using Javascript/HTML/CSS.
 **Game Dreams** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
-This is a demo developed as prework for CodePath's WEB102 class
 
 Time spent: **5** hours spent in total
 
@@ -18,12 +18,11 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
+Here's a <a href="//imgur.com/a/TwWTj4l">walkthrough</a> of implemented features:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/gNpMsTM"  ><a href="//imgur.com/a/gNpMsTM">CodePath WEB102 Prework - Annie Zhou</a></blockquote>
+![image](https://github.com/cherryraichu/web102_prework/assets/74882348/4ee68a6e-c882-4fd5-87cc-3e31a2dbc8de)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Windows Screen Capture!
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
